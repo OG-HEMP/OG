@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/mcp-adapter"]
+	path = wp-content/plugins/mcp-adapter
+	url = https://github.com/WordPress/mcp-adapter.git
